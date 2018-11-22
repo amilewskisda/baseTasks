@@ -2,7 +2,7 @@ public class ForLoopChallenge {
     public static void main(String[] args) {
         int[][] tab = new int[5][5];
 
-        printDoubleTab(tab);
+/*        printDoubleTab(tab);
         System.out.println();
 
         tab = new int[5][5];
@@ -12,7 +12,7 @@ public class ForLoopChallenge {
 
         tab = new int[5][5];
         tab = addCrossRow(tab);
-        printDoubleTab(tab);
+        printDoubleTab(tab);*/
     }
 
     private static int[][] addOneRow(int[][] tab) {
@@ -29,7 +29,7 @@ public class ForLoopChallenge {
     private static int[][] addCrossRow(int[][] tab) {
         for (int i = 0; i < tab.length; i++) {
             for (int j = 0; j < tab.length; j++) {
-                if(j == i) {
+                if (j == i) {
                     tab[i][j] = i;
                 }
             }
