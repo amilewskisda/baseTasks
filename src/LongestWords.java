@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class LongestWords {
 
@@ -9,16 +10,16 @@ public class LongestWords {
         System.out.println("Najdłuższy/e wyrazy to: "+ longestWords(dict));
     }
 
-    private static ArrayList<String> longestWords(String[] dictionary) {
+    private static List<String> longestWords(String[] dictionary) {
         ArrayList<String> list = new ArrayList<>();
-        int longest_length = 0;
+        int longestLength = 0;
         for (String str : dictionary) {
             int length = str.length();
-            if (length > longest_length) {
-                longest_length = length;
+            if (length > longestLength) {
+                longestLength = length;
                 list.clear();
             }
-            if (length == longest_length) {
+            if (length == longestLength) {
                 list.add(str);
             }
         }

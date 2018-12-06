@@ -1,12 +1,12 @@
 import java.util.Arrays;
 
-public class Array {
+public class ArrayExample {
     public static void main(String[] args) {
         int[] arrayOne = {1, 2, 3};
         int[] arrayTwo = {1, 2, 3};
 
         createAndPrintArray(6);
-        boolean arraysHaveTheSameSize = areArraysHaveTheSameSize(arrayOne, arrayTwo);
+        boolean arraysHaveTheSameSize = doArraysHaveTheSameSize(arrayOne, arrayTwo);
         System.out.println("arraysHaveTheSameSize = " + arraysHaveTheSameSize);
         boolean arraysAreTheSame = areArraysTheSame(arrayOne, arrayTwo);
         System.out.println("arraysAreTheSame = " + arraysAreTheSame);
@@ -27,12 +27,12 @@ public class Array {
         System.out.println();
     }
 
-    private static boolean areArraysHaveTheSameSize(int[] arrayOne, int[] arraySecond) {
+    private static boolean doArraysHaveTheSameSize(int[] arrayOne, int[] arraySecond) {
 
         // 3 przyklady na ta metode. Wykonuja to samo
 
         // Example 1
-/*        if (arrayOne == arraySecond) {
+/*        if (arrayOne.length == arraySecond.length) {
             return true;
         } else {
             return false;

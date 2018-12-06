@@ -1,4 +1,4 @@
-public class Switch {
+public class SwitchExample {
     public static void main(String[] args) {
 
         basicMathExampleWithBreak("&", 5, 4);
