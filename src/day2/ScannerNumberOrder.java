@@ -1,3 +1,5 @@
+package day2;
+
 import java.util.Scanner;
 
 // Napisz program który pobierze 3 liczby, a następnie wypisze czy ich kolejność rosnąca, malejąca czy ani taka ani taka

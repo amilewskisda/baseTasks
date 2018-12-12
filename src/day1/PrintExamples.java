@@ -1,3 +1,5 @@
+package day1;
+
 import java.time.LocalDateTime;
 
 public class PrintExamples {

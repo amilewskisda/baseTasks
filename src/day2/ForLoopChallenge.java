@@ -1,3 +1,5 @@
+package day2;
+
 public class ForLoopChallenge {
     public static void main(String[] args) {
         int[][] tab = new int[5][5];

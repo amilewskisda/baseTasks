@@ -1,3 +1,5 @@
+package day2;
+
 public class SwitchExample {
     public static void main(String[] args) {
 

@@ -1,11 +1,15 @@
+package day2;
+
 import java.util.Arrays;
 
 public class ArrayExample {
     public static void main(String[] args) {
+        createDaysInWeekArray();
+        createAndPrintArray(6);
+
         int[] arrayOne = {1, 2, 3};
         int[] arrayTwo = {1, 2, 3};
 
-        createAndPrintArray(6);
         boolean arraysHaveTheSameSize = doArraysHaveTheSameSize(arrayOne, arrayTwo);
         System.out.println("arraysHaveTheSameSize = " + arraysHaveTheSameSize);
         boolean arraysAreTheSame = areArraysTheSame(arrayOne, arrayTwo);
@@ -14,8 +18,25 @@ public class ArrayExample {
         sumElementsOfArray(arrayOne);
     }
 
+    public static void createDaysInWeekArray() {
+        String[] week = new String[7];
+        // mozna tez tak
+        // String week[] = new String[7];
+        week[0] = "Poniedzialek";
+        week[1] = "Wtorek";
+        week[2] = "Sroda";
+        week[3] = "Czwartek";
+        week[4] = "Piatek";
+        week[5] = "Sobota";
+        week[6] = "Niedziela";
+        // ponizszy zapis jest rownoznaczny z powyzszym
+        // String[] week = {"Poniedzialek", "Wtorek", "Sroda", "Czwartek", "Piatek", "Sobota", "Niedziela"};
+
+        System.out.println("Drugi dzień tygodnia to: " + week[7]); //spróbuj wpisać indeks > 7 -> ArrayIndexOutOfBoundsException
+    }
+
     public static void createAndPrintArray(int arraysSize) {
-        int[] array = new int[arraysSize];
+        int[] array = new int[arraysSize]; // new alokuje pamięć dla tablic
 
         for (int i = 0; i < arraysSize; i++) {
             array[i] = i;
