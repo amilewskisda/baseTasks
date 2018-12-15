@@ -6,6 +6,7 @@ public class DayOneReminder {
     public static void main(String[] args) {
         number = 102;
         myMethod();
+        // number = 99.109
         System.out.printf("number = %.1f", number++);
     }
 
