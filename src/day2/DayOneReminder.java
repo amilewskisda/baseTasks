@@ -8,6 +8,7 @@ public class DayOneReminder {
         myMethod();
         // number = 99.109
         System.out.printf("number = %.1f", number++);
+        System.out.printf("number = %.1f", number);
     }
 
     public static void myMethod() {

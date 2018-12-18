@@ -29,9 +29,18 @@ public class PrintExamples {
 
     private static void printfExample() {
         System.out.printf("Maciek waży %d kilogramów\n", 123);
+
         double weight = 65.45678d;
         System.out.printf("Maciek chciałby ważyć %f kilogramów\n", weight);
-        System.out.printf("%.2f", 3.14159);
+
+        System.out.printf("%.2f\n", 3.14159);
+
+        System.out.printf("%s ma %d lat i %.1f wzrostu\n", "Ala", 10, 165.2);
+
+/*        String name = "Ala";
+        int age = 10;
+        double height = 165.2;
+        System.out.printf("%s ma %d lat i %.1f wzrostu\n", name, age, height);*/
     }
 
     private static void mathExample() {
