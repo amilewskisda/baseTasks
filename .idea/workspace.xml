@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b651a42-9749-4d9d-8a38-00a4bbdcfa53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/ForLoopChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/ForLoopChallenge.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,36 +88,37 @@
     <session id="-396857584">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="53" />
+          <entry key="java" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="53" />
+          <entry key="JAVA" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="java" value="3044" />
+          <entry key="java" value="3049" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3044" />
+          <entry key="JAVA" value="3049" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -127,28 +127,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2/DayOneReminder.java">
+        <entry file="file://$PROJECT_DIR$/src/day2/UniqueCharsInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="46">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/PrintExamples.java">
+        <entry file="file://$PROJECT_DIR$/src/day2/WhileExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="594">
+              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AnimalsListCommas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day2/ForLoopChallenge.java">
+        <entry file="file://$PROJECT_DIR$/src/LongestWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OddNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day2/ScannerTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day2/SwitchExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-550">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day2/TernaryOperator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day2/ScannerNumberOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day2/IfExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1120">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -228,7 +302,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,25 +314,20 @@
               <item name="baseTasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="baseTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baseTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545155602207" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545604183672" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="C:/sda_workspace/wprowadzenie_do_java" />
+    <property name="last_opened_file_path" value="C:/sda_workspace/OOP" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -282,7 +350,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForLoopChallenge">
+  <component name="RunManager" selected="Application.Day2ReminderFizzBuzz">
+    <configuration name="Day2ReminderFizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2ReminderFizzBuzz" />
+      <module name="BaseTasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DayOneReminder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.DayOneReminder" />
       <module name="BaseTasks" />
@@ -335,33 +410,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.WhileExamples" />
-      <module name="BaseTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DayOneReminder" />
-      <item itemvalue="Application.WhileExamples" />
       <item itemvalue="Application.VarargsExample" />
       <item itemvalue="Application.PrintExamples" />
       <item itemvalue="Application.ForLoopChallenge" />
+      <item itemvalue="Application.Day2ReminderFizzBuzz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day2ReminderFizzBuzz" />
         <item itemvalue="Application.ForLoopChallenge" />
         <item itemvalue="Application.PrintExamples" />
         <item itemvalue="Application.DayOneReminder" />
         <item itemvalue="Application.VarargsExample" />
-        <item itemvalue="Application.WhileExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -391,9 +453,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624811" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26626325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,17 +463,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33387887" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09819967" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.10310966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.45826513" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.02618658" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -422,6 +482,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,13 +496,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day2/ForLoopChallenge.java</url>
-          <line>42</line>
+          <line>44</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day2/ForLoopChallenge.java</url>
-          <line>43</line>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -449,28 +510,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AnimalsListCommas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/initialVariableValues.java" />
     <entry file="file://$PROJECT_DIR$/src/day1/MathClass.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -493,16 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OddNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/BigDecimalExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -510,60 +539,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/WhileExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1736">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/VarargsExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/day2/TernaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/IfExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/ForLoopExercises.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/OperatorsWithAssignment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/UniqueCharsInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/SwitchExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -574,9 +554,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day1/PrintExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/DayOneReminder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/ForLoopChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/ForLoopExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/IfExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1120">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2/ScannerNumberOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="134">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
@@ -588,24 +610,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/DayOneReminder.java">
+    <entry file="file://$PROJECT_DIR$/src/day2/SwitchExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="-550">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/PrintExamples.java">
+    <entry file="file://$PROJECT_DIR$/src/day2/TernaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2/ForLoopChallenge.java">
+    <entry file="file://$PROJECT_DIR$/src/day2/UniqueCharsInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="46">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2/WhileExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OddNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AnimalsListCommas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
